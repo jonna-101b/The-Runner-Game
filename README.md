@@ -73,7 +73,7 @@ The Runner game/
 Install the required library via `pip`:
 
 ```bash
-# Standard Pygame (Python 3.10 - 3.12)
+# Standard Pygame (Python 3.10 - 3.12) 
 pip install pygame
 
 # Or Pygame Community Edition (Recommended for Python 3.13+)
